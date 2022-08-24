@@ -1,0 +1,52 @@
+*{
+  background-color: #FFE4C4;
+  margin-left: 20px;
+}
+h1{
+  margin-left: 40%;
+  color: #372803;
+}
+.row{
+  /*display: flex;*/
+  margin-top: 40px;
+
+}
+.slideshow-container{
+  margin-left: 10%;
+}
+.Timg{
+  width: 300px;
+  height: 200px;
+}
+.title{
+  margin-left: 40%;
+  color: #372803;
+  font-family: Georgia;
+}
+.fauteuils{
+  display: none;
+  margin-top: 50px;
+}
+.luminaires{
+  display: none;
+  margin-top: 50px;
+}
+.salleAm{
+  display: none;
+  margin-top: 50px;
+}
+.lits{
+  display: none;
+  margin-top: 50px;
+}
+.btn{
+  display: none;
+}
+.pContainer{
+  display: flex;
+  margin: 40px;
+  justify-content: space-between;
+}
+p{
+  margin-left: 30px;
+}
